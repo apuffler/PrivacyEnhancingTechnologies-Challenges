@@ -1,0 +1,1 @@
+mitmproxy --cert "*=/home/rin/core/uni/ws2017/PET/challenge3/superfish.pem"
